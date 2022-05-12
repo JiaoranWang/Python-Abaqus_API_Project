@@ -22,7 +22,6 @@ import connectorBehavior
 import odbAccess
 from operator import add
 
-SF
 # functions
 
 
