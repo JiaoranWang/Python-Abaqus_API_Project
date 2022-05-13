@@ -17,4 +17,4 @@ https://github.com/hnrwagner/ABAQUS-Python-Script/blob/main/Script_3D_cylinder_0
 [2] https://www.youtube.com/watch?v=QRQLliaOpm4
 
 ![image](https://github.com/JiaoranWang/pythonProject/blob/master/Python-Abaqus%20API%20Project/Pics/Front_Page.jpg)
-![Image text](https://raw.githubusercontent.com/hongmaju/light7Local/master/img/productShow/20170518152848.png)
+![Image text](https://github.com/JiaoranWang/jiaoranwang.github.io/blob/main/home/pdf/JRW_CV_2021.pdf)
