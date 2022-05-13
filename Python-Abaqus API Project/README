@@ -1,5 +1,21 @@
 Hi~!!! This is a tutorial about how to using the Python-Abaqus API to automatically create/analysis
 
+
+Please see the code flow:
+![image 1-> code flow ](https://github.com/JiaoranWang/pythonProject/blob/master/Python-Abaqus%20API%20Project/Pics/Front_Page.jpg)
+![image 1-> code flow ](https://github.com/JiaoranWang/jiaoranwang.github.io/blob/main/home/pdf/JRW_CV_2021.pdf)
+
+![image 2->  ]
+![image 3->  ]
+![image 4->  ]
+![image 5->  ]
+![image 6->  ]
+![image 7->  ]
+![image 7->  ]
+
+
+
+
 Pycharm: how to soft wrap~
 From <https://blog.csdn.net/GeekLeee/article/details/73658311>
 refer CAE modeling:
@@ -15,6 +31,3 @@ code refer
 https://github.com/hnrwagner/ABAQUS-Python-Script/blob/main/Script_3D_cylinder_002.py
 https://github.com/hnrwagner/ABAQUS-Python-Script/blob/main/Script_3D_cylinder_004.py
 [2] https://www.youtube.com/watch?v=QRQLliaOpm4
-
-![image](https://github.com/JiaoranWang/pythonProject/blob/master/Python-Abaqus%20API%20Project/Pics/Front_Page.jpg)
-![Image text](https://raw.githubusercontent.com/hongmaju/light7Local/master/img/productShow/20170518152848.png)
