@@ -22,6 +22,9 @@ import connectorBehavior
 import odbAccess
 from operator import add
 
+### Change/set the work dictionary ###
+import os
+os.chdir(r"C:\Users\jiaor\Abaqus_workdict")
 
 # functions
 
