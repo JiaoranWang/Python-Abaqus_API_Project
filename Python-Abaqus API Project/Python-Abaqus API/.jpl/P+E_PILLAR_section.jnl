@@ -277,6 +277,9 @@ mdb.models['Model-1'].Part(dimensionality=THREE_D, name='Part-2', type=
 mdb.models['Model-1'].parts['Part-2'].BaseSolidExtrude(depth=5.0, sketch=
     mdb.models['Model-1'].sketches['__profile__'])
 del mdb.models['Model-1'].sketches['__profile__']
+
+##define material
+
 mdb.models['Model-1'].Material(name='PDMS')
 mdb.models['Model-1'].materials['PDMS'].Elastic(table=((500000.0, 0.4), ))
 mdb.models['Model-1'].Material(name='Eco')
