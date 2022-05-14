@@ -8,6 +8,7 @@ https://www.martinpletz.com/fe-scripting/
 Abaqus Handbook:
 http://130.149.89.49:2080/v2016/books/ker/default.htm
 http://130.149.89.49:2080/v2016/books/cmd/default.htm?startat=pt01ch01.html
+http://130.149.89.49:2080/v6.11/pdf_books/SCRIPT_USER.pdf
 
 Video:
 [1] https://www.youtube.com/watch?v=FbPBj7B4cKA
@@ -18,3 +19,6 @@ https://github.com/hnrwagner/ABAQUS-Python-Script/blob/main/Script_3D_cylinder_0
 
 ![image](https://github.com/JiaoranWang/pythonProject/blob/master/Python-Abaqus%20API%20Project/Pics/Front_Page.jpg)
 ![Image text](https://github.com/JiaoranWang/jiaoranwang.github.io/blob/main/home/pdf/JRW_CV_2021.pdf)
+
+
+
