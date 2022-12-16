@@ -1,6 +1,9 @@
 [intro]
 Hi~!!! This is a tutorial about how to using the Python-Abaqus API to automatically create/analysis
 
+***Please see the file: Abaqus-Python API Operation Manual.html
+
+
 [Pycharm: how to soft wrap~]
 
 From <https://blog.csdn.net/GeekLeee/article/details/73658311>
